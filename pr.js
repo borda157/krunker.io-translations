@@ -68,9 +68,9 @@ timer.end Próxima Rodada em {0}
 leaderboard.empty Sala Vazia
 popup.checkpoint Checkpoint!
 app.play CLIQUE PARA JOGAR
-app.spectate CLICK TO SPECTATE
-app.play.mobile TAP TO PLAY
-app.spectate.mobile TAP TO SPECTATE
+app.spectate CLIQUE PARA ASSISTIR
+app.play.mobile CLIQUE PARA JOGAR
+app.spectate.mobile CLIQUE PARA ASSITIR
 app.play.controller PRESSIONE COMEÇAR
 app.spectate.controller START to SPECTATE
 purchase.error Erro ocorreu
@@ -133,16 +133,16 @@ settings.quality.yourTrails Your Trails
 settings.quality.mflash Fogo dos Tiros
 settings.quality.flap Sniper Flap
 settings.quality.lowSpec Low Spec
-settings.quality.ambient Ambient Shading
-settings.quality.ambientOld Old Shading (When Possible)
-settings.quality.textureAnim Texture Animations
-settings.quality.objectAnim Object Animations
-settings.quality.screenShake Screen Shake
-settings.quality.weaponShine Weapons Shine
+settings.quality.ambient Sombreamento de Ambiente
+settings.quality.ambientOld Sombreamento Antigo (Quando Possível)
+settings.quality.textureAnim Animações de Textura
+settings.quality.objectAnim Animações de Objeto
+settings.quality.screenShake Balanço da Tela
+settings.quality.weaponShine Brilho das Armas
 settings.quality.rendGamma Gamma
-settings.quality.lighting Lighting
-settings.quality.showExplo Show Explosions
-settings.quality.aspectRatio Aspect Ratio
+settings.quality.lighting Iluminação
+settings.quality.showExplo Mostrar Explosões
+settings.quality.aspectRatio Proporção da Tela
 settings.post.header Post Processing
 settings.post.post Post Processing
 settings.post.bloom Bloom
@@ -183,7 +183,7 @@ settings.interface.speedOpacity Speed Opacity
 settings.interface.speedScale Speed Scale
 settings.interface.speedColor Speed Color (Current)
 settings.interface.speedColorMax Speed Color (Max)
-settings.interface.medals Show Medals
+settings.interface.medals Mostrar Medalhas
 settings.interface.hideNames Nametag Display
 settings.interface.hideNames.team Team Only
 settings.interface.hideNames.enemy Enemy Only
@@ -197,14 +197,14 @@ settings.interface.nametagStyle.all Everything
 settings.interface.healthNum Nametag Health Number
 settings.interface.healthColT Nametag Health Color Team
 settings.interface.healthColE Nametag Health Color Enemy
-settings.interface.xpBarCol XP Bar Color
-settings.interface.xpBarOpac XP Bar Opacity
+settings.interface.xpBarCol Cor da Barra de XP
+settings.interface.xpBarOpac Opacidade da Barra de XP
 settings.crosshair.header Mira
 settings.crosshair.type Tipo
 settings.crosshair.type.2 Personalizado
 settings.crosshair.type.3 Em Camadas
 settings.crosshair.type.4 Imagem
-settings.crosshair.type.5 Precision
+settings.crosshair.type.5 Precisão
 settings.crosshair.style Estilo
 settings.crosshair.style.0 Cruz
 settings.crosshair.style.1 Círculo Oco
@@ -215,24 +215,24 @@ settings.crosshair.image Imagem
 settings.crosshair.image.paste Imagem da Mira
 settings.crosshair.always Mostrar Sempre
 settings.crosshair.color Cor
-settings.crosshair.shadow.color Shadow Color
-settings.crosshair.shadow.thickness Shadow Thickness
+settings.crosshair.shadow.color Cor da Sombra
+settings.crosshair.shadow.thickness Espessura da sombra
 settings.crosshair.size Tamanho
 settings.crosshair.thickness Espessura
 settings.crosshair.gap Gap
-settings.crosshair.dot Dot
+settings.crosshair.dot Ponto
 settings.crosshair.opacity.use Use Custom Opacity
 settings.crosshair.opacity.custom Custom Opacity
 settings.hitmarker.header Hitmarker
-settings.hitmarker.color Color
+settings.hitmarker.color Cor
 settings.hitmarker.kcolor Kill Color
-settings.hitmarker.thickness Thickness
-settings.hitmarker.opacity Opacity
-settings.hitmarker.leng Length
-settings.hitmarker.spacing Spacing
-settings.hitmarker.animD Anim Size
-settings.hitmarker.animS Anim Speed
-settings.hitmarker.hitm Show
+settings.hitmarker.thickness Espessura
+settings.hitmarker.opacity Opacidade
+settings.hitmarker.leng Comprimento
+settings.hitmarker.spacing Espaçamento
+settings.hitmarker.animD Tamanho da Animação
+settings.hitmarker.animS Velocidade da Animação
+settings.hitmarker.
 settings.hitmarker.hitmFad Fade Speed
 settings.hitmarker.custom Hitmarker Image
 settings.hitmarker.custom.paste Hitmarker Image URL
